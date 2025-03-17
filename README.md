@@ -6,7 +6,7 @@ The project is fully containerized with **Docker** and ready for deployment.
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone git@github.com:hikehikehike/NewGen.git
+git clone https://github.com/hikehikehike/NewGen.git
 cd NewGen
 ```
 
